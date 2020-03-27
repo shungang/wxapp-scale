@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "标尺",
+  "usingComponents": {
+    "cu-scale": "/component/cu-scale/cu-scale"
+  }
+}

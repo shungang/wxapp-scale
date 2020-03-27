@@ -1,0 +1,4 @@
+<!-- pages/index/index.wxml -->
+<view class='container'>
+   <cu-scale id="cuScale"></cu-scale>
+</view>

@@ -1,0 +1,11 @@
+/* pages/index/index.wxss */
+.container {
+  padding: 0 40rpx;
+}
+
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
